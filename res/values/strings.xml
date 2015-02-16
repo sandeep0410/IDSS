@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IDSS</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="nomap_error">Error: target map not found</string>
+    <string name="connected_toast">Location services connected</string>
+    <string name="disconnected_toast">Location services disconnected</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="look_ahead">Look ahead miles</string>
+    <string name="other_settings">Other Settings</string>
+    <string name="enable_voice">Enable Voice</string>
+    <string name="frequency_speech">Repeat after: </string>
+    <string name="reset_setting">Reset Settings</string>
+
+</resources>
